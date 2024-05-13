@@ -1,0 +1,15 @@
+{
+    "users": {
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "dob": "",
+      "email": "",
+      "otp": "",
+      "contactNumber": "",
+      "password": "",
+      "confirmPassword": "",
+      "selectedOptions": []
+    
+    }
+}
